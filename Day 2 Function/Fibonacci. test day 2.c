@@ -1,5 +1,4 @@
-#include<stdio.h>
-int Fibonacci(int n){
+t Fibonacci(int n){
 int result =0;
 if (n==0)
 result +=0;
@@ -20,4 +19,5 @@ printf("Please Enter Value Of n");
 scanf("%d",&n);
 printf("Fibonacci number of n %d\n", Fibonacci(n));
 return 0;
-}
+}#include<stdio.h>
+in
